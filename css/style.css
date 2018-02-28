@@ -120,7 +120,7 @@
   border-radius: 3px;
   text-align: center;
   color: #fff;
-  background: #00c4fc;
+  background: #ba2f58;
   font-size: 20px;
   display: none;
 }
@@ -244,7 +244,7 @@ body .theme-button {
 .details-page-wrapper .details-page-sidebar .call-us a:hover,.project-details .project-info .text ul li:hover:before,.project-details .project-analysis .statstics,#business-main-banner-two .tp-caption a:hover,
 .project-details .project-solution .nav-tabs > li.active > a,.project-details .project-solution .nav-tabs > li.active > a:hover,.project-details .project-solution .nav-tabs > li.active > a:focus,
 .shop-page .main-wrapper .shop-sidebar .shop-sidebar-list ul li a:hover,.shop-page .main-wrapper .shop-sidebar .single-popular-product:hover .product h6 a,.shop-page .all-product-wrapper .single-item:hover h5 a {
-  color: #00c4fc;
+  color: #ba2f58;
 }
 .p-bg-color,.hesperiden.tparrows:hover,.service-style-one .service-slider .center .single-service,.service-style-one .owl-theme .owl-nav [class*=owl-]:hover,.service-style-one .theme-button:hover,
 .case-study .text a:hover,.our-team .single-team-member ul li a:hover,.menuzord-menu ul.dropdown li:hover > a,.pricing-plan .single-price-table:hover a,.pricing-plan .single-price-table.active a,
@@ -253,7 +253,7 @@ body .theme-button {
 .details-page-wrapper .details-page-sidebar .carousel-indicators li.active,.project-details .project-analysis .statstics:hover,.project-details .project-solution .tab-pane li:before,
 .blog-details-page .single-news .post .share-option ul.float-left li a:hover,.blog-details-page .single-news .post .share-option ul.float-right li a:hover,.blog-details-page .comment-section .single-comment button:hover,
 .shop-page .main-wrapper .shop-sidebar .product-tag ul li a:hover,.shop-details .single-product-details .info a:hover,.related-product-slider.owl-theme .owl-nav [class*=owl-]:hover   {
-  background: #00c4fc;
+  background: #ba2f58;
 }
 .hesperiden.tparrows:hover,.about-bizco .right-content .panel-heading.active-panel:before,.service-style-one .owl-theme .owl-nav [class*=owl-]:hover,.service-style-one .theme-button:hover,.case-study .text a:hover,
 .our-team .single-team-member ul li a:hover,.bottom-banner a.subscribe,.bottom-banner a:hover,footer .follow-us form input:focus,.pricing-plan .single-price-table:hover a,.pricing-plan .single-price-table.active a,
@@ -263,7 +263,7 @@ body .theme-button {
 .project-details .project-analysis .statstics,.project-details .project-solution .nav-tabs > li.active > a,.project-details .project-solution .nav-tabs > li.active > a:hover,
 .project-details .project-solution .nav-tabs > li.active > a:focus,.shop-page .main-wrapper .shop-sidebar .product-tag ul li a:hover,.shop-details .single-product-details .info a:hover,
 .related-product-slider.owl-theme .owl-nav [class*=owl-]:hover,#business-main-banner-two .tp-caption a  {
-  border-color: #00c4fc;
+  border-color: #ba2f58;
 }
 /*----------------------------------- Theme Header --------------------*/
 .theme-menu-two .top-header {
@@ -559,8 +559,8 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .company-feature .ceo-word .opacity {
   border-radius: 3px;
   padding: 25px 28px 25px 28px;
-  background-image: -webkit-linear-gradient( -118deg, rgba(3,199,217,0.9) 0%, rgba(5,132,230,0.9) 100%);
-  background-image: -ms-linear-gradient( -118deg, rgba(3,199,217,0.9) 0%, rgba(5,132,230,0.9) 100%);
+  background-image: -webkit-linear-gradient( -118deg, #ba2f58 0%, rgba(5,132,230,0.9) 100%);
+  background-image: -ms-linear-gradient( -118deg, #ba2f58 0%, rgba(5,132,230,0.9) 100%);
 }
 .company-feature .ceo-word .opacity h3 {
   color: #fff;
@@ -763,8 +763,8 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .service-style-one .center .single-service:before {
   background: #282a30;
   /* IE9 */
-  background: -webkit-linear-gradient(135deg, #202125 45%, #3ae6ff 50%, #3ae6ff 56%);
-  background: linear-gradient(315deg, #202125 45%, #3ae6ff 50%, #3ae6ff 56%);
+  background: -webkit-linear-gradient(135deg, #202125 45%, #ba2f58 50%, #ba2f58 56%);
+  background: linear-gradient(315deg, #202125 45%, #ba2f58 50%, #ba2f58 56%);
 }
 .owl-theme .owl-nav {margin: 0;}
 .owl-theme .owl-nav [class*=owl-] {
@@ -997,7 +997,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   top:0;
   text-align: center;
 }
-.contact-style-one .contact-address ul li:first-child i {color: #1ecde2;}
+.contact-style-one .contact-address ul li:first-child i {color: #ba2f58;}
 .contact-style-one .contact-address ul li:nth-child(2) i {color: #d765f0;}
 .contact-style-one .contact-address ul li:last-child i {color: #ffcd61;}
 .contact-style-one .contact-address ul {margin-top: 50px;}
@@ -1017,7 +1017,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .contact-style-two .opacity .wrapper .float-left {width: 50%;}
 .contact-style-two .opacity .wrapper .call-back {
   background: url(../images/home/shape2.png) no-repeat center center;
-  background-color: #00c4fc;
+  background-color: #ba2f58;
   border-radius: 5px 0 0 0;
   padding: 125px 50px 160px 50px;
 }
@@ -1376,10 +1376,10 @@ footer .bottom-footer ul li h3 {
   margin-top: 30px;
 }
 .pricing-plan .single-price-table:hover a,.pricing-plan .single-price-table.active a {color: #fff;}
-.pricing-plan .clearfix .single-price-table.active:hover strong {color: #00c4fc;}
+.pricing-plan .clearfix .single-price-table.active:hover strong {color: #ba2f58;}
 .pricing-plan .clearfix .single-price-table.active:hover a {
-  border-color: #00c4fc;
-  background: #00c4fc;
+  border-color: #ba2f58;
+  background: #ba2f58;
   color: #fff;
 }
 /*----------------------------- Latest News ----------------------*/
@@ -1516,8 +1516,8 @@ footer .bottom-footer ul li h3 {
   bottom: -1px;
   width: 100%;
   left:0;
-  border-top: 1px solid #00c4fc;
-  border-bottom: 1px solid #00c4fc;
+  border-top: 1px solid #ba2f58;
+  border-bottom: 1px solid #ba2f58;
   -webkit-transform:scale(1,0);
           transform:scale(1,0);
   -webkit-transform-origin:100% 50%;
@@ -1542,7 +1542,7 @@ footer .bottom-footer ul li h3 {
   left:0;
   right: 0;
   bottom: 0;
-  background: rgba(0,196,252,0.92);
+  background: #ba2f58;
   border-radius: 3px;
   opacity: 0;
   -webkit-transform:scale(0.4);
@@ -1668,7 +1668,7 @@ footer .bottom-footer ul li h3 {
   right: 0;
   bottom: 0;
   left:0;
-  background: rgba(0,196,252,0.9);
+  background: #ba2f58;
   text-align: center;
   color: #fff;
   border-radius: 3px;
@@ -1989,7 +1989,7 @@ footer .bottom-footer ul li h3 {
   letter-spacing: 1px;
 }
 #success {
-  color: #00c4fc;
+  color: #ba2f58;
 }
 #error {
   color: #C9182B;
@@ -2531,7 +2531,7 @@ footer .bottom-footer ul li h3 {
   margin-top: 40px;
 }
 .shop-page .main-wrapper .shop-sidebar .price-ranger .ui-widget-header {
-  background: #00c4fc;
+  background: #ba2f58;
 }
 .shop-page .main-wrapper .shop-sidebar .price-ranger .ui-slider-handle {
   background: #fff;
@@ -2709,7 +2709,7 @@ footer .bottom-footer ul li h3 {
 .shop-details .review-tab .nav-tabs > li.active > a:hover,
 .shop-details .review-tab .nav-tabs > li.active > a:focus {
   background: #fff;
-  border-top: 2px solid #00c4fc;
+  border-top: 2px solid #ba2f58;
   border-radius: 0;
   font-weight: 500;
 }
