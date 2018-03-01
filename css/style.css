@@ -1,15 +1,7 @@
 
 /* CSS Document */
 
-/* 
-    Created on   : 04/05/2017. 
-    Theme Name   : Bizco.
-    Description  : Bizco || Responsive html5 Business template.
-    Version      : 1.
-    Author       : @creativegigs.
-    Developed by : Jubayer Al Hasan (jubayer.hasan1991@gmail.com).
-   
-*/
+
 
 /* ------------------------------------------ */
 /*             TABLE OF CONTENTS
@@ -206,11 +198,19 @@ input,textarea {outline: none; box-shadow: none;-webkit-transition: all 0.3s eas
   color: #303030;
 }
 .theme-title h2 {line-height: 54px;}
+.theme-title .title{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 .theme-title p {
   font-size: 18px;
+  padding-top: 15px;
   line-height: 32px;
   color: #303030;
   margin-top: 15px;
+}
+.theme-title .author{
+  padding-top: 25px;
 }
 .theme-title a.theme-button {
   width: 200px;
@@ -634,6 +634,14 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .about-bizco .text a {
   width: 160px;
 }
+.author-about{
+  padding-top: 20px;
+}
+.author-about .name{
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
 .about-bizco .right-content {
   width: 47%;
 }
@@ -681,7 +689,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   padding: 0 0 30px 45px;
 }
 .about-bizco .counter-number {
-  margin: 100px 0 60px 0;
+  margin: 150px 0 60px 0;
   text-align: center;
 }
 .about-bizco .counter-number .wrapper {
@@ -710,6 +718,11 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   margin-bottom: 15px;
   border-radius: 5px;
   overflow: hidden;
+}
+
+.counter-number{
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 .about-bizco .img-box .row .single-img.small {width: 37%;}
 /*------------------------------- Service Style One -------------------------*/
